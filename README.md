@@ -42,7 +42,7 @@ You can download Node.js here.
 
 # Clone the repository:
 
-git clone : https://github.com/ankit8github/Health-Plus.git
+git clone: https://github.com/ankit8github/Health-Plus.git
  
 # Navigate to the project directory:
 cd Health-Plus
